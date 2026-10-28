@@ -1,0 +1,8 @@
+{
+  "name": "Remix Agentic Credit Underwriter 360 Portal 5 - GBTI",
+  "description": "A professional 360-degree dashboard for credit underwriters featuring risk analysis, customer profiling, and fraud screening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
